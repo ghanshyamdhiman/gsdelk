@@ -15,3 +15,5 @@ docker run --name elasticsearch -d -p 9200:9200 -p 9300:9300 -e "discovery.type=
 docker run --name <some_name> --rm --link elasticsearch:elasticsearch --env ELASTICSEARCH_URL=http://elasticsearch:9200 <repo_name>
 
 https://tryolabs.com/blog/2015/02/17/python-elasticsearch-first-steps/
+
+INstall Elastic Search - https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-16-04

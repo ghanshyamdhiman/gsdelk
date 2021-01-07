@@ -17,3 +17,7 @@ docker run --name <some_name> --rm --link elasticsearch:elasticsearch --env ELAS
 https://tryolabs.com/blog/2015/02/17/python-elasticsearch-first-steps/
 
 INstall Elastic Search - https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-16-04
+
+Installing Web App Using Flask
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-16-04
+
